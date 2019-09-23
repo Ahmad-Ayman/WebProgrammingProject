@@ -1,0 +1,80 @@
+.ifstat h3 {
+    margin-left: 20%;
+    font-weight: bold;
+}
+
+.ifstat .btn-primary {
+    width: 28%;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+#d291bc
+.ifstat h2 {
+     margin-left: 22%;
+    font-weight: bold;
+}
+
+.modal-footer .btn-primary {
+    width:20%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+.modal-footer .btn-secondary {
+      width:20%;
+    margin-top: 2%;
+    margin-left: 5%;
+}
+
+ .button1{
+    width:17%;
+    height: 20%;
+     margin-left: 10%;
+/*    margin-bottom: %;*/
+    margin-right: 3%;
+ background-color: #d291bc;
+    color: #000000;
+    font-size: 120%;
+    font-weight: bold;
+    padding-left: 3%;
+    padding-right: 3%;
+    border-color: #000000;
+  border-radius: 10%;
+}
+
+.button1 a {
+    color:#446984
+}
+
+
+
+.container {
+  color: #666699;
+    width: 100%;
+}
+
+.row{ 
+widows: 100%
+}
+
+
+.modal-content {
+    display: none;
+}
+
+
+.btn {
+    margin-left: 28%;
+   
+    background-color: #d291bc;
+    border-color:black;
+}
+
+
+
+
+.btn-warning {
+    width:20%;
+   margin-left: 40%;
+    color:white
+}

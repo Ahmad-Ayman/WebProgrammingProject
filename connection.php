@@ -4,7 +4,7 @@ ini_set('display_errors', 1);
 $servername = "localhost";
 $username = "dbusername";
 $password = "dbpassword";
-$dbname = "u972902333_gym";
+$dbname = "dpname";
 // Create connection
 $connection = mysqli_connect($servername, $username, $password, $dbname);
 // Check connection

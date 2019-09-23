@@ -165,6 +165,11 @@ span {
     font-weight: 700;
 }
 
+.hero-content h2 .wrap2{
+    color: #f7ffa0;
+    font-weight: 400;
+    font-size: 40px;
+}
 .hero-content p {
     font-size: 18px;
     margin-bottom: 40px;
@@ -179,7 +184,11 @@ span {
     bottom: 200px;
 }
 
-
+.hero-content h2 .wrap2{
+    color: #f7ffa0;
+    font-weight: 400;
+    font-size: 40px;
+}
 
 /* ----------------
     Responsive
@@ -308,10 +317,10 @@ span {
         font-size: 45px;
     }
 
-    .headerPic,
+    .headerPic
  {
         display: none;
-    }
+ }
 }
 
 /* Small Mobile :320px. */
