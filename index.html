@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="./css/bootstrap.min.css" />
     <link rel="stylesheet" href="./css/slicknav.css" />
     <link rel="stylesheet" type="text/css" href="./css/masterlayout.css" />
-
+    <link rel="stylesheet" type="text/css" href="./css/aboutuspagestyle.css"/>
     <script src="./js/jquery.slicknav.min.js"></script>
 
 
@@ -31,12 +31,12 @@
 
         </div>
         <ul id="menu">
-            <li class="active"><a href="#">Home</a></li>
-            <li><a href="#">Classes</a></li>
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="Targets.html">Targets</a></li>
             <li><a href="#">Nutration</a></li>
             <li><a href="#">Login / Register</a></li>
             <li><a href="#">About Us</a></li>
-            <li><a href="#">Contact Us</a></li>
+            <li><a href="contactus.html">Contact Us</a></li>
         </ul>
     </header>
     <!-- Header section end -->
@@ -143,11 +143,11 @@ during pregnancy), relieve stress, and build more stamina needed for labor and d
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-lg-7">
-                    <form class="subscribe-form" action="#">
-                        <input type="email" class="form-control" placeholder='Enter Email Address' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email Address'">
+                <div class="col-lg-6">
+                    <form class="subscribe-form" action="subscribe.php" method="post">
+                        <input  id="email" for="email" type="email" name="email" class="form-control" placeholder='Enter Email Address' onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email Address'">
 
-                        <button type="submit" class="btn_2 subscribe-btn" value="Subscribe">
+                        <button type="submit" id="submit" name="submit" class="btn_2 subscribe-btn" value="Subscribe">
                             <b>Subscribe</b></button>
                     </form>
                 </div>
@@ -168,12 +168,12 @@ during pregnancy), relieve stress, and build more stamina needed for labor and d
                     <h4>Site Map</h4>
                     <div class="site-map  ">
                         <ul>
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">Classes</a></li>
+                            <li><a href="index.html">Home</a></li>
+                            <li><a href="Targets.html">Targets</a></li>
                             <li><a href="#">Nutration</a></li>
                             <li><a href="#">Login / Register </a></li>
                             <li><a href="#">About Us</a></li>
-                            <li><a href="#">Contact Us </a></li>
+                            <li><a href="contactus.html">Contact Us </a></li>
                         </ul>
                     </div>
                 </div>

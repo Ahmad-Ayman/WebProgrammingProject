@@ -1,0 +1,82 @@
+.about-section {
+    padding-top: 95px;
+    padding-bottom: 98px;
+  }
+  
+  .about-text p {
+    margin-bottom: 40px;
+  }
+  
+  .ap-course-section {
+    padding-bottom: 90px;
+  }
+  
+  .ap-course-item .ci-icon {
+    float: left;
+    width: 97px;
+  }
+  
+  .ap-course-item .ci-icon img {
+    max-width: 77px;
+  }
+  
+  .ap-course-item .ci-icon i {
+    font-size: 77px;
+    color: #f7ffa0;
+  }
+  
+  .ap-course-item .ci-content {
+    overflow: hidden;
+    padding-top: 20px;
+  }
+  
+  .ap-course-item .ci-content span {
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #7f7987;
+  }
+  
+  .ap-course-item .ci-content h4 {
+    font-weight: 700;
+    padding-top: 5px;
+    margin-bottom: 15px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
+  
+  .ap-course-item .ci-content p {
+    margin-bottom: 0;
+  }
+  
+  .appointment-section {
+    padding-top: 126px;
+    padding-bottom: 117px;
+  }
+  
+  .appointment-text {
+    max-width: 590px;
+    padding-top: 15px;
+    position: relative;
+    left: 120px;
+  }
+  
+  .appointment-text span {
+    font-size: 12px;
+    text-transform: uppercase;
+  }
+  
+  .appointment-text h2 {
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    margin-bottom: 40px;
+  }
+  
+  .appointment-text p {
+    margin-bottom: 0;
+  }
+  
+  .appointment-img {
+    text-align: right;
+  }
